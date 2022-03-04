@@ -1,0 +1,13 @@
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\bin\Debug\netstandard2.0\LaunchesAPI.deps.json
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\bin\Debug\netstandard2.0\LaunchesAPI.dll
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\LaunchesAPI.csprojAssemblyReference.cache
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\LaunchesAPI.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\LaunchesAPI.AssemblyInfo.cs
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\bin\Debug\netstandard2.0\ref\LaunchesAPI.dll
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\bin\Debug\netstandard2.0\LaunchesAPI.pdb
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\LaunchesAPI.dll
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\ref\LaunchesAPI.dll
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\LaunchesAPI.pdb
+C:\Users\Petar\Desktop\Skola\IV RAZRED\PMU\LaunchesAPI\LaunchesAPI\LaunchesAPI\obj\Debug\netstandard2.0\XamlC.stamp
